@@ -10,7 +10,23 @@
 - ⚡ Fun fact: ...
 -->
 
-## Olá eu sou Isaque Vereda!
+## Tudo bem? Sou o Isaque César Vereda!
+<div>
+  
+<p>Formei-me como técnico em Desenvolvimento de Sistemas em julho de 2020 pela ETEC Jorge Street e também conclui minha graduação como tecnólogo em Gestão da Tecnologia da Informação. Aperfeiçoei meus conhecimentos técnicos através de trabalhos formais e informais, tanto para fins lucrativos quanto para fins pessoais.</p>
+
+<p><strong>Meu principal objetivo é evoluir e crescer no mercado de trabalho na área de Tecnologia da Informação.</strong></p>
+
+<p>Desenvolvimento de sistemas para computador (Java 8 e 11 e C#) utilizando ferramentas como Spring boot, JPA e Hibernate. Desenvolvimento web (HTML, CSS) utilizando o framework bootstrap, CMS Joomla. Montagem e manutenção de computadores. Montagem e manutenção de redes de computadores. Gerenciamento de banco de dados (MySQL, Microsoft Access).</p>
+
+<p>Como trabalho de conclusão do curso técnico, juntamente com um time desenvolvemos um sistema de controle de chaves para uma gestão inteligente que pode ser utilizadas por instituições de ensino.</p>
+
+<h4>CONTATO:</h4>
+<p><strong>Telefone:</strong> +55 11 93339-0717</p>
+<p><strong>E-mail:</strong> isaquevereda2001@gmail.com</p>
+<br>
+
+</div>  
 <div align="center">
   <a href="https://github.com/isaquevereda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaquevereda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
