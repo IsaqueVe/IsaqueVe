@@ -14,7 +14,7 @@
 
 <h4>CONTATO:</h4>
 <p><strong>Telefone:</strong> +55 11 93339-0717</p>
-<p><strong>E-mail:</strong>isaquevereda2001@gmail.com</p>
+<p><strong>E-mail:</strong> isaquevereda2001@gmail.com</p>
 <br>
 
 </div>  
