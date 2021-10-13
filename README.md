@@ -37,7 +37,8 @@
 <div style="display: inline_block">
   <img align="center" alt="Isaque-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Isaque-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  </div>
+</div>
+<br>
   
 <div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=green" alt="isaquevereda" /></div>
   
