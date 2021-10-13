@@ -40,7 +40,7 @@
 </div>
 <br>
   
-<div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=green" alt="isaquevereda" /></div>
+<div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=blue" alt="isaquevereda" /></div>
   
 <br>
   
