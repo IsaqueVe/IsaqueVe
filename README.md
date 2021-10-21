@@ -3,7 +3,6 @@
 
 ## Tudo bem? Sou o Isaque César Vereda!😄
 <div>
-  
 <p>Formei-me como técnico em Desenvolvimento de Sistemas em julho de 2020 pela ETEC Jorge Street e também conclui minha graduação como tecnólogo em Gestão da Tecnologia da Informação. Aperfeiçoei meus conhecimentos técnicos através de trabalhos formais e informais, tanto para fins lucrativos quanto para fins pessoais.</p>
 
 <p><strong>Meu principal objetivo é evoluir e crescer no mercado de trabalho na área de Tecnologia da Informação.</strong></p>
@@ -16,6 +15,7 @@
 <p><strong>Telefone:</strong> +55 11 93339-0717</p>
 <p><strong>E-mail:</strong> isaquevereda2001@gmail.com</p>
 <br>
+</div>
 
 </div>  
 <div align="center">
