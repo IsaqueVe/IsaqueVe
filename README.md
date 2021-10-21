@@ -3,13 +3,15 @@
 
 ## Tudo bem? Sou o Isaque César Vereda!😄
 <div>
-<p>Formei-me como técnico em Desenvolvimento de Sistemas em julho de 2020 pela ETEC Jorge Street e também conclui minha graduação como tecnólogo em Gestão da Tecnologia da Informação. Aperfeiçoei meus conhecimentos técnicos através de trabalhos formais e informais, tanto para fins lucrativos quanto para fins pessoais.</p>
+<p>Sou técnico em Desenvolvimento de Sistemas pela ETEC Jorge Street e Tecnólogo em Gestão da Tecnologia da Informação. Aperfeiçoei meus conhecimentos técnicos através de trabalhos formais e informais, tanto para fins lucrativos quanto para fins pessoais.</p>
 
-<p><strong>Meu principal objetivo é evoluir e crescer no mercado de trabalho na área de Tecnologia da Informação.</strong></p>
+<p><strong>Algumas tecnologias que tenho conhecimento e tive a oportunidade de trabalhar:</strong></p>
 
-<p>Desenvolvimento de sistemas para computador (Java 8 e 11 e C#) utilizando ferramentas como Spring boot, JPA e Hibernate. Desenvolvimento web (HTML, CSS) utilizando o framework bootstrap, CMS Joomla. Montagem e manutenção de computadores. Montagem e manutenção de redes de computadores. Gerenciamento de banco de dados (MySQL, Microsoft Access).</p>
+<p>Desenvolvimento de sistemas para computador C# e Java 8 e 11 utilizando ferramentas como Spring, JPA e Hibernate. Desenvolvimento de sistemas web com PHP, JavaScript , HTML e CSS utilizando os frameworks e bibliotecas como Codeigniter 3 e 4, bootstrap e Jquery, CMS Joomla e WordPress.
+Modelagem de banco de dados relacional (MySQL e SQL Server).
+Metodologias ágeis (Scrum e Kanban).</p>
 
-<p>Como trabalho de conclusão do curso técnico, juntamente com um time desenvolvemos um sistema de controle de chaves para uma gestão inteligente que pode ser utilizadas por instituições de ensino.</p>
+<p>Meu objetivo principal é evoluir através das oportunidades que recebo e crescer no mercado de trabalho na área de Tecnologia da Informação.</p>
 
 <h4>CONTATO:</h4>
 <p><strong>Telefone:</strong> +55 11 93339-0717</p>
