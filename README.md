@@ -36,13 +36,9 @@ Metodologias ágeis (Scrum e Kanban).</p>
   <img align="center" alt="Isaque-Codeigniter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" />
   <img align="center" alt="Isaque-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  <br>
-<div style="display: inline_block">
-  <img align="center" alt="Isaque-mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Isaque-sqlserver" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-</div>
-<br>
   
+<br>
+    
 <div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=blue" alt="isaquevereda" /></div>
   
 <br>
