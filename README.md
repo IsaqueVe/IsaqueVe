@@ -10,8 +10,8 @@
 <p>Entrei no barco da Tecnologia da Informação em 2019 com o curso técnico de Desenvolvimento de Sistemas. Onde decidi, de vez, seguir nesta área. Não sabia ao certo em qual área queria projetar minha carreira mas, este curso me ajudou bastante a enxergar o mundo profissional de uma forma diferente. Logo após, entrei  na faculdade. Com ela, veio o aprimoramento das competências técnicas e a vivência de trabalho como desenvolvedor. Onde estou sempre buscando aprender coisas novas e aprimorar meus conhecimentos.</p>
 
 <h4>CONTATO:</h4>
-<p><strong>Telefone:</strong> +55 11 93339-0717</p>
-<p><strong>E-mail:</strong> devisaquevereda@gmail.com</p>
+<p><strong>Telefone:</strong> <a href="tel:+5511933390717" +55 11 93339-0717</p>
+<p><strong>E-mail:</strong> <a href="mailto:devisaquevereda@gmail.com">devisaquevereda@gmail.com</a></p>
 <br>
 </div>
 
@@ -33,12 +33,7 @@
 
 </div>
   
-<br>
-    
-<div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=blue" alt="isaquevereda" /></div>
-  
-<br>
-  
+<hr/>
 <div> 
   <a href = "mailto:devisaquevereda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isaquevereda" target="_blank">
@@ -47,5 +42,6 @@
   ![Snake animation](https://github.com/isaquevereda/isaquevereda/blob/output/github-contribution-grid-snake.svg)
 </div>
   
-   
+<div><img src="https://komarev.com/ghpvc/?username=isaquevereda&color=blue" alt="isaquevereda" /></div>
+  
  
