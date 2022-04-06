@@ -3,15 +3,11 @@
 
 ## Tudo bem? Sou o Isaque César Vereda!😄
 <div>
+  
 <p>Sou técnico em Desenvolvimento de Sistemas pela ETEC Jorge Street e Tecnólogo em Gestão da Tecnologia da Informação. Aperfeiçoei meus conhecimentos técnicos através de trabalhos formais e informais, tanto para fins lucrativos quanto para fins pessoais.</p>
 
-<p><strong>Algumas tecnologias que tenho conhecimento e tive a oportunidade de trabalhar:</strong></p>
-
-<p>Desenvolvimento de sistemas para computador C# e Java 8 e 11 utilizando ferramentas como Spring, JPA e Hibernate. Desenvolvimento de sistemas web com PHP, JavaScript , HTML e CSS utilizando os frameworks e bibliotecas como Codeigniter 3 e 4, bootstrap e Jquery, CMS Joomla e WordPress.
-Modelagem de banco de dados relacional (MySQL e SQL Server).
-Metodologias ágeis (Scrum e Kanban).</p>
-
-<p>Meu objetivo principal é evoluir através das oportunidades que recebo e crescer no mercado de trabalho na área de Tecnologia da Informação.</p>
+<p>Me considero criativo, determinado e fascinado por inovação. Uma das minhas características mais marcantes é o sorriso e a alegria, busco sempre levar essas características comigo por onde eu for.</p>
+<p>Entrei no barco da Tecnologia da Informação em 2019 com o curso técnico de Desenvolvimento de Sistemas. Onde decidi, de vez, seguir nesta área. Não sabia ao certo em qual área queria projetar minha carreira mas, este curso me ajudou bastante a enxergar o mundo profissional de uma forma diferente. Logo após, entrei  na faculdade. Com ela, veio o aprimoramento das competências técnicas e a vivência de trabalho como desenvolvedor. Onde estou sempre buscando aprender coisas novas e aprimorar meus conhecimentos.</p>
 
 <h4>CONTATO:</h4>
 <p><strong>Telefone:</strong> +55 11 93339-0717</p>
