@@ -10,7 +10,7 @@
 <p>Entrei no barco da Tecnologia da Informação em 2019 com o curso técnico de Desenvolvimento de Sistemas. Onde decidi, de vez, seguir nesta área. Não sabia ao certo em qual área queria projetar minha carreira mas, este curso me ajudou bastante a enxergar o mundo profissional de uma forma diferente. Logo após, entrei  na faculdade. Com ela, veio o aprimoramento das competências técnicas e a vivência de trabalho como desenvolvedor. Onde estou sempre buscando aprender coisas novas e aprimorar meus conhecimentos.</p>
 
 <h4>CONTATO:</h4>
-<p><strong>Telefone:</strong> <a href="tel:+5511933390717" +55 11 93339-0717</p>
+<p><strong>Telefone:</strong> <a href="tel:+5511933390717" +55 11 93339-0717</a></p>
 <p><strong>E-mail:</strong> <a href="mailto:devisaquevereda@gmail.com">devisaquevereda@gmail.com</a></p>
 <br>
 </div>
